@@ -27,7 +27,8 @@ As someone passionate about both music and technology, this project allowed me t
 
 This was part of my journey toward a **Music Technology Certificate**, and reflects my ongoing interest in generative creativity.
 
-## Audio Files
+## Audio Files 
+*Note: You may need to download since the files may be too large*
 
 - [`Mashup Test.wav`](mashup-assets/Mashup_Test.wav) — Full AI-enhanced mashup  
 - [`Mashup Test_1.wav`](mashup-assets/Mashup_Test_1.wav) — A focused snippet highlighting the smooth transition between songs
