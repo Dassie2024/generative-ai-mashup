@@ -64,9 +64,24 @@ This project inspired me to explore more:
 
 ---
 
-## Screenshots (optional)
+## Screenshots 
 
-If you have any visuals of your DAW setup, pitch correction, or stem processing, include them!
+### AI Tool in Action: Fadr Stem Separation
+
+Below is a screenshot of [Fadr.com](https://fadr.com/stems) separating *"You Found Me"* by The Fray into instrumental and vocal stems. This was the foundation for aligning keys, isolating parts, and crafting the mashup.
+
+![Screenshot of Fadr stem separation with The Fray](screenshots/fadr-stem-separation-the-fray.png)
+
+*Fadr’s AI stem separation enabled precise control over song structure and mood, empowering the generative remix process.*
+
+
+### 🎛️ Screenshot of Pro Tools Intro
+
+![Pro Tools Intro DAW screenshot](screenshots/pro-tools-intro-musicmanta-screenshot.png)
+
+*Screenshot from MusicManta’s “Pro Tools Intro – New Free DAW” article (June 2023)*  
+
+
 
 ---
 
