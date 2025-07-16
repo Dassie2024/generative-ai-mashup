@@ -1,4 +1,4 @@
-# 🎧 Generative AI Mashup: "You Found Me" × "Californication"
+# Generative AI Mashup: "You Found Me" × "Californication"
 
 **Author**: Dassie Galapo  
 
@@ -10,7 +10,7 @@ This is a generative AI audio remix that combines two iconic songs:
 
 The goal: create a smooth, emotionally resonant mashup using AI-assisted tools that isolate and blend stems for a seamless fusion of voice and instrument.
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 - [Fadr.com](https://fadr.com/stems) — AI-based stem separation
 - Pro Tools — for pitch/time adjustment and final mixing
