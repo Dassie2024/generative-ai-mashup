@@ -1,8 +1,6 @@
 # 🎧 Generative AI Mashup: "You Found Me" × "Californication"
 
 **Author**: Dassie Galapo  
-**Course**: CIS 5590 with Dr. Stephen MacNeil  
-**Date**: November 26, 2023
 
 ## Project Overview
 
